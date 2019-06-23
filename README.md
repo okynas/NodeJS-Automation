@@ -57,7 +57,7 @@ mv linuxMacos.sh ~/bin && cd ~/bin && chmod 774 linuxMacos.sh
 If not
 
 ```
-cd ~/ && mkdir bin && cd <inside-NodeJsAutomatization-github-folder> && mv test.sh ~/bin
+cd ~/ && mkdir bin && cd <inside-NodeJsAutomatization-github-folder> && mv linuxMacos.sh ~/bin
 ```
 
 Make a new project with command:
