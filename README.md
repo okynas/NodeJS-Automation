@@ -4,6 +4,10 @@ Make it easier to prepare the project, by writing a few simple words.
 
 **NB: Recomended using ubuntu-terminal on windows og to use mac/linux pc for easiest installation.**
 
+#### See EXAMPLE.sh for understanding on how to edit linuxMacos.sh
+
+#### See EXAMPLE.bat for understanding on how to edit windows.bat
+
 ### Requirments
 
 - Git installed on your computer

@@ -6,7 +6,7 @@ cd /PATH/TO/PROJECT/FOLDER #EDIT ME
 mkdir $1
 
 # path to index.js downloaded from github
-cd /PATH/TO/DOWNLOADED7GITHUB/FILES #EDIT ME
+cd /PATH/TO/DOWNLOADED/GITHUB/FILES #EDIT ME
 
 node index.js $1
 
