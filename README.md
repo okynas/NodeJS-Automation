@@ -2,7 +2,7 @@
 
 Make it easier to prepare the project, by writing a few simple words. 
 
-**NB: Recomended using ubuntu-terminal on windows og to use mac/linux pc for easiest installation.**
+**NB: Recomended using ubuntu-terminal on windows or to use mac/linux pc for easiest installation.**
 
 #### See EXAMPLE.sh for understanding on how to edit linuxMacos.sh
 
